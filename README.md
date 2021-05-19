@@ -1,0 +1,2 @@
+# pythonlist
+Exercícios de Python
